@@ -26,6 +26,7 @@ cdn.jsdelivr.net
 cdnjs.loli.net
 cdn.loli.net
 cdn.marketplaceimages.windowsphone.com
+chinacache.cedexis.com
 china-cdn2.unityads.unity3d.com
 china-cdn3.unityads.unity3d.com
 china.msn.com
@@ -57,6 +58,7 @@ console-service-ssl.halo.xbox.com
 content.nike.com
 cortexfx.bnpparibas.com
 createpoint.qti.qualcomm.com
+crl.globalsign.net
 crl.kaspersky.com
 cs-analytics.htcsense.com
 c.s-microsoft.com
@@ -140,7 +142,9 @@ msgr.dlservice.microsoft.com
 msgruser.dlservice.microsoft.com
 msg.xboxlive.com
 nxeassets.xbox.com
+ocsp2.globalsign.com
 ocsp-data.us.cdnetworks.com
+ocsp.globalsign.com
 olay-cn.cdnpg.com
 partner.globalsign.com
 phobos.apple.com
@@ -163,11 +167,13 @@ safebrowsing-cache.google.com
 scp-social.s-msn.com
 script.image-gmkt.com
 secaz-fota-dn.samsungdm.com
+secure.globalsign.com
 secure-nikeplus.nike.com
 security.cdnetworks.com
 sekong.cn.com
 settings.crashlytics.com
 settings.xboxlive.com
+shop.globalsign.com
 shop.samsung.com
 silverlight.dlservice.microsoft.com
 sina.com.hk
@@ -186,6 +192,7 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 store.nike.com
 store.samsung.com
+support.globalsign.com
 tcl.com.ru
 tiles.xbox.com
 titlestorage.xboxlive.com
@@ -211,6 +218,7 @@ www8.hp.com
 www.agoda.com
 www-api.ibm.com
 www.ericsson.com
+www.globalsign.com
 www.htcvive.com
 www.ibm.com
 www.ikea.com
